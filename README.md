@@ -41,7 +41,7 @@ The dataset includes various features and a target variable (`income`). Some key
 
 This project demonstrates the use of boosting algorithms to predict whether an individual earns more than $50,000 based on census data. Through data preprocessing, model training, and evaluation, the project provides insights into the performance of boosting techniques in classification tasks.
 
-## Output
+## Outputs
 
 ![image](https://github.com/user-attachments/assets/e5947586-c88f-416f-b96b-d2133eab70d2)
 
